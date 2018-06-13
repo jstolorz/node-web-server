@@ -2,3 +2,6 @@
 .idea/modules.xml
 .idea/node-web-server.iml
 .idea/workspace.xml
+package-lock.json
+node_modules
+
